@@ -1,0 +1,23 @@
+.body {
+    background-color: #282C34;
+    opacity: 0.9;
+    color: #61DAFB;
+}
+
+
+/* card body  */
+
+.card {
+    border: 2px solid #61DAFB;
+    padding: 6px;
+    background-color: #282C34;
+}
+
+.card-body {
+    background-color: #282C34;
+    color: white;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}

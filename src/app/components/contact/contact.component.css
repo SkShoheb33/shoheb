@@ -1,0 +1,23 @@
+input,
+textarea {
+    background: none;
+    border: 2px solid #61DAFB;
+    color: white;
+    background: transparent;
+}
+
+.form-control:focus,
+.form-control:active {
+    background: transparent;
+    color: white;
+    border: 1px solid green;
+}
+
+button {
+    background-color: #61DAFB;
+}
+
+footer {
+    background-color: #1e2125;
+    height: 30vh;
+}
